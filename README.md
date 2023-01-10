@@ -1,9 +1,9 @@
 # OpenVEX: Go module to generate and work with VEX documents
 
-This repository contains the OpenVEX go source code. This module lets 
+This repository contains the OpenVEX go source code. This module lets
 authors create, modify and manage VEX documents.
 
-The full documentation of this moule can be found on 
+The full documentation of this moule can be found on
 [pkg.go.dev/openvex](pkg.go.dev/openvex/vex).
 
 For more information about VEX and the OpenVEX implementation check out the

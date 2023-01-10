@@ -1,5 +1,5 @@
 /*
-Copyright 2022 Chainguard, Inc.
+Copyright 2023 OpenVex Authors.
 SPDX-License-Identifier: Apache-2.0
 */
 
